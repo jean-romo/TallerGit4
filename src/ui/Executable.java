@@ -139,10 +139,11 @@ public class Executable {
 
 		
 		System.out.println(controller.searchProjectsBeforeDate(controller.crearCalendario(diaDigitadoA, mesDigitadoA, añoDigitadoA)));
-	
 
 
+	}
 
-
+	public static int multiplicacion(int a, int b){
+		return (a*b); 
 	}
 }
