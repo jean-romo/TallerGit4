@@ -145,4 +145,8 @@ public class Executable {
 
 
 	}
+
+	public int suma(){
+		return 23+3;
+	}
 }
