@@ -145,4 +145,8 @@ public class Executable {
 
 
 	}
+
+	public int resta(){
+			return 23-3;
+			}	
 }
